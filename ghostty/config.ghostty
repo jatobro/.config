@@ -2,8 +2,7 @@ theme = vague
 
 font-family = Hack Nerd Font Mono
 
-window-decoration = false
-gtk-titlebar = false
+macos-titlebar-style = hidden
 
 background-opacity = 0.85
 background-blur = true
